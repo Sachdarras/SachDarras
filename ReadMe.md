@@ -20,8 +20,7 @@ Après 10 ans passés dans le domaine du spectacle, principalement dans la progr
 
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=@sachdarras&icon=9&color=4)](https://visitcount.itsvg.in)
